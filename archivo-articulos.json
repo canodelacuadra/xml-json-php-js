@@ -1,0 +1,16 @@
+[
+  {
+    "titulo": "Formato JSON",
+    "contenido": "Las primeras pruebas con JSON",
+    "visitas": 345,
+    "publicado": true,
+    "categoria": null
+  },
+  {
+    "titulo": " JSON PHP",
+    "contenido": "Funciones para trabajar con JSON",
+    "visitas": 100,
+    "publicado": true,
+    "categoria": "php"
+  }
+]

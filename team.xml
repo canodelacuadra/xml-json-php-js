@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<team>
+  <member>
+  <name>Jose</name>
+  <lastname>Cano</lastname>
+  <job>Docente</job>
+  <images>images/jose.jpg</images>
+  <github_url>https://github.com/canodelacuadra/</github_url>
+</member>
+<member>
+  <name>Alberto</name>
+  <lastname>Sanglier</lastname>
+  <job> Director-Docente</job>
+  <images>images/titux.jpg</images>
+  <github_url>https://github.com/titux72/</github_url>
+</member>
+  <member>
+    <name>Daniel</name>
+    <lastname>Vargas</lastname>
+    <job>Alumno-Trabajador</job>
+    <images>images/dani.jpg</images>
+    <github_url>https://github.com/danieltandem/</github_url>
+  </member>
+  <member>
+    <name>Kyllian</name>
+    <lastname>Arribas</lastname>
+    <job>Alumno-Trabajador</job>
+    <images>images/kylliam.jpg</images>
+    <github_url>https://github.com/yekaos/</github_url>
+  </member>
+  <member>
+    <name>Nika</name>
+    <lastname>Huertas</lastname>
+    <job>Alumna-Trabajadora</job>
+    <images>images/nika.jpg</images>
+    <github_url>https://github.com/nikatandem/</github_url>
+  </member>
+  <member>
+    <name>Cristina</name>
+    <lastname>Becerra</lastname>
+    <job>Alumna-Trabajadora</job>
+    <images>images/cristina.jpg</images>
+    <github_url>https://github.com/crisbm9/</github_url>
+  </member>
+  <member>
+    <name>Carmen</name>
+    <lastname>Ruiz</lastname>
+    <job>Alumna-Trabajadora</job>
+    <images>images/carmen.jpg</images>
+    <github_url>https://github.com/carmenchurg/</github_url>
+  </member>
+  <member>
+    <name>Andra</name>
+    <lastname>Grumeza</lastname>
+    <job>Alumno-Trabajador</job>
+    <images>images/andra.jpg</images>
+    <github_url>https://github.com/AElenaGr/</github_url>
+  </member>
+  <member>
+    <name>Andrés</name>
+    <lastname>Navarro</lastname>
+    <job>Alumno-Trabajador</job>
+    <images>images/andres.jpg</images>
+    <github_url>https://github.com/ndresNavi/</github_url>
+  </member>
+  <member>
+    <name>Cristian</name>
+    <lastname>Villanueva</lastname>
+    <job>Alumno-Trabajador</job>
+    <images>images/cristian.jpg</images>
+    <github_url>https://github.com/cristianvpe/</github_url>
+</member>
+<member>
+  <name>Elena</name>
+  <lastname>Alvarez</lastname>
+  <job>Alumna-Trabajadora</job>
+  <images>images/elena.jpg</images>
+  <github_url>https://github.com/elenafiscer</github_url>
+</member>
+<member>
+    <name>Ruth</name>
+    <lastname>Rama</lastname>
+    <job>Alumna-Trabajadora</job>
+    <images>img/ruth.png</images>
+    <github_url>https://github.com/Rram1313/</github_url>
+  </member>
+  <member>
+    <name>Roberto</name>
+    <lastname>Cerdá</lastname>
+    <job>Alumno-Trabajador</job>
+    <images>images/roberto.jpg</images>
+    <github_url>https://github.com/Robertobarbas23/</github_url>
+</member>
+<member>
+  <name>ABDELkbir</name>
+  <lastname>Benali</lastname>
+  <job>Alumno-Trabajador</job>
+  <images>images/abdel.jpg</images>
+  <github_url>https://github.com/acuati/</github_url>
+</member>
+<member>
+  <name>Alberto</name>
+  <lastname>Vicente</lastname>
+  <job>Alumno-Trabajador</job>
+  <images>images/alberto.jpg</images>
+  <github_url>https://github.com/albrtovicente/</github_url>
+</member>
+<member>
+  <name>Erika</name>
+  <lastname>Bello</lastname>
+  <job>Alumna-Trabajadora</job>
+  <images>images/erika.jpg</images>
+  <github_url>https://github.com/ericrysbel/</github_url>
+</member>
+<member>
+  <name>Carolina</name>
+  <lastname>Cango</lastname>
+  <job>Alumna-Trabajora</job>
+  <images>images/carolina.jpg</images>
+  <github_url>https://github.com/carolinacc2323/</github_url>
+</member>
+<member>
+  <name>Pietro</name>
+  <lastname>Velastegui</lastname>
+  <job>Alumno Trabajador</job>
+  <images>images/pietro.jpg</images>
+  <github_url>https://github.com/Pietvg7/</github_url>
+</member>
+<member>
+  <name>Andrea</name>
+  <lastname>Cuenca</lastname>
+  <job>Alumna Trabajadora</job>
+  <images>images/andrea.jpg</images>
+  <github_url>https://github.com/00Andrea00/</github_url>
+</member>
+</team>

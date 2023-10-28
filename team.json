@@ -1,0 +1,135 @@
+[
+      {
+        "name": "Jose",
+        "lastname": "Cano",
+        "job": "Docente",
+        "images": "images/jose.jpg",
+        "github_url": "https://github.com/canodelacuadra/"
+      },
+      {
+        "name": "Alberto",
+        "lastname": "Sanglier",
+        "job": " Director-Docente",
+        "images": "images/titux.jpg",
+        "github_url": "https://github.com/titux72/"
+      },
+      {
+        "name": "Daniel",
+        "lastname": "Vargas",
+        "job": "Alumno-Trabajador",
+        "images": "images/dani.jpg",
+        "github_url": "https://github.com/danieltandem/"
+      },
+      {
+        "name": "Kyllian",
+        "lastname": "Arribas",
+        "job": "Alumno-Trabajador",
+        "images": "images/kylliam.jpg",
+        "github_url": "https://github.com/yekaos/"
+      },
+      {
+        "name": "Nika",
+        "lastname": "Huertas",
+        "job": "Alumna-Trabajadora",
+        "images": "images/nika.jpg",
+        "github_url": "https://github.com/nikatandem/"
+      },
+      {
+        "name": "Cristina",
+        "lastname": "Becerra",
+        "job": "Alumna-Trabajadora",
+        "images": "images/cristina.jpg",
+        "github_url": "https://github.com/crisbm9/"
+      },
+      {
+        "name": "Carmen",
+        "lastname": "Ruiz",
+        "job": "Alumna-Trabajadora",
+        "images": "images/carmen.jpg",
+        "github_url": "https://github.com/carmenchurg/"
+      },
+      {
+        "name": "Andra",
+        "lastname": "Grumeza",
+        "job": "Alumno-Trabajador",
+        "images": "images/andra.jpg",
+        "github_url": "https://github.com/AElenaGr/"
+      },
+      {
+        "name": "Andrés",
+        "lastname": "Navarro",
+        "job": "Alumno-Trabajador",
+        "images": "images/andres.jpg",
+        "github_url": "https://github.com/AndresNavi/"
+      },
+      {
+        "name": "Cristian",
+        "lastname": "Villanueva",
+        "job": "Alumno-Trabajador",
+        "images": "images/cristian.jpg",
+        "github_url": "https://github.com/cristianvpe/"
+      },
+      {
+        "name": "Elena",
+        "lastname": "Alvarez",
+        "job": "Alumna-Trabajadora",
+        "images": "images/elena.jpg",
+        "github_url": "https://github.com/elenafiscer/"
+      },
+      {
+        "name": "Ruth",
+        "lastname": "Rama",
+        "job": "Alumna-Trabajadora",
+        "images": "img/ruth.png",
+        "github_url": "https://github.com/Rram1313/"
+      },
+      {
+        "name": "Roberto",
+        "lastname": "Cerdá",
+        "job": "Alumno-Trabajador",
+        "images": "images/roberto.jpg",
+        "github_url": "https://github.com/Robertobarbas23/"
+      },
+      {
+        "name": "ABDELkbir",
+        "lastname": "Benali",
+        "job": "Alumno-Trabajador",
+        "images": "images/abdel.jpg",
+        "github_url": "https://github.com/acuati/"
+      },
+      {
+        "name": "Alberto",
+        "lastname": "Vicente",
+        "job": "Alumno-Trabajador",
+        "images": "images/alberto.jpg",
+        "github_url": "https://github.com/albrtovicente/"
+      },
+      {
+        "name": "Erika",
+        "lastname": "Bello",
+        "job": "Alumna-Trabajadora",
+        "images": "images/erika.jpg",
+        "github_url": "https://github.com/ericrysbel/"
+      },
+      {
+        "name": "Carolina",
+        "lastname": "Cango",
+        "job": "Alumna-Trabajora",
+        "images": "images/carolina.jpg",
+        "github_url": "https://github.com/carolinacc2323/"
+      },
+      {
+        "name": "Pietro",
+        "lastname": "Velastegui",
+        "job": "Alumno Trabajador",
+        "images": "images/pietro.jpg",
+        "github_url": "https://github.com/Pietvg7/"
+      },
+      {
+        "name": "Andrea",
+        "lastname": "Cuenca",
+        "job": "Alumna Trabajadora",
+        "images": "images/andrea.jpg",
+        "github_url": "https://github.com/00Andrea00/"
+      }
+    ]

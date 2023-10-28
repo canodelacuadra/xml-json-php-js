@@ -1,0 +1,36 @@
+[
+  {
+    "titulo": "Formato JSON",
+    "contenido": "Las primeras pruebas con JSON",
+    "visitas": 345,
+    "publicado": true,
+    "categoria": null,
+    "comentarios": [
+      {
+        "autor": "Mari Ángeles",
+        "mensaje": "Qué lio"
+      },
+      {
+        "autor": "Mario",
+        "mensaje": "Estupendo"
+      }
+    ]
+  },
+  {
+    "titulo": " JSON PHP",
+    "contenido": "Funciones para trabajar con JSON",
+    "visitas": 100,
+    "publicado": true,
+    "categoria": "php",
+    "comentarios": [
+      {
+        "autor": "Luisa López",
+        "mensaje": "Muy buen artículo"
+      },
+      {
+        "autor": "Carlos Pérez",
+        "mensaje": "Artículo muy malo"
+      }
+    ]
+  }
+]
